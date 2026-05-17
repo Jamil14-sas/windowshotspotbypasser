@@ -4,6 +4,7 @@ A small Windows PowerShell GUI for safe network diagnostics and default restorat
 
 ## Features
 
+- Change the hop limit to '65' (meant for bypass HOTSPOT)
 - Shows IPv4 and IPv6 global network settings.
 - Shows IP interface information.
 - Shows whether IPv6 is enabled on network adapters.
